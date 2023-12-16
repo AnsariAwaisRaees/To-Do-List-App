@@ -75,3 +75,7 @@ li {
 .editBtn:hover, .deleteBtn:hover {
     background-color: #c82333;
 }
+
+#priority{
+    margin-bottom: 10px;
+}
